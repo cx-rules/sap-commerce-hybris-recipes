@@ -941,7 +941,7 @@ table tfoot td {
   text-align: center;
 }
 
-.about .cover-author-image {
+.about .cover-author-image, .about .cover-site-logo-image {
   width: 100px;
   height: 100px;
   margin: 0 auto 10px;
@@ -968,7 +968,7 @@ table tfoot td {
           transform: scale3d(0.9, 0.9, 1);
 }
 
-.about .author-name {
+.about .author-name, .about .site-name {
   font-family: 'PT Serif', serif;
   margin: 0 0 10px;
   position: relative;
@@ -979,7 +979,7 @@ table tfoot td {
   font-weight: 700;
 }
 
-.about .author-name::after {
+.about .author-name::after, .about .site-name::after {
   content: "";
   position: absolute;
   left: 50%;
