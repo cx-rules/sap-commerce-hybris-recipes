@@ -20,7 +20,7 @@ social-email: # add your Email address
 
 # Site Settings
 site-name: Visual Studio Code Recipes
-site-img: visual-studio-code-logo.svg
+site-logo-img: visual-studio-code-logo.svg
 about-site: Get off the ground with Visual Studio Code fast with these simple recipes
 
 # Disqus
