@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: Olga Strijewski # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
@@ -17,6 +17,11 @@ social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
+
+# Site Settings
+site-name: Visual Studio Code Recipes
+site-img: visual-studio-code-logo.svg
+about-site: Get off the ground with Visual Studio Code fast with these simple recipes
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
