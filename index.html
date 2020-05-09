@@ -2,6 +2,7 @@
 layout: main
 ---
 {% assign posts = paginator.posts %}
+{% assign posts = posts | sort:"weight" %}
 {% for post in posts %}
 <article class="post">
   {% if post.img %}
