@@ -3,6 +3,7 @@ layout: post
 title: "Installation"
 description: How to install Visual Studio Code on Windows.
 weight:100
+date: 2020-05-10 00:00:00 -0400
 img:  # Add image post (optional)
 ---
 In the browser, go to Visual Studio Code website: [visual-studio-code-website].
