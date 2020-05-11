@@ -5,11 +5,10 @@ date: 2020-05-10
 description: How to install Visual Studio Code on Windows.
 img:  # Add image post (optional)
 ---
-In the browser, go to Visual Studio Code website: <https://code.visualstudio.com>.
+In the browser, go to Visual Studio Code website: <https://code.visualstudio.com> and click on the "Download" button:
 
 {% include screenshot.html img-name="VisualStudioCodeWebsite.png" img-description="Visual Studio Code website" %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+The page with downloads for various operating systems appears. Click on the download for Windows:
 
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+{% include screenshot.html img-name="Download.png" img-description="Visual Studio Code download" %}
