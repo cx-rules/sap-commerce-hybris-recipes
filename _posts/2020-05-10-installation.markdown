@@ -5,7 +5,7 @@ date: 2020-05-10
 description: How to install Visual Studio Code on Windows.
 img:  # Add image post (optional)
 ---
-In the browser, go to Visual Studio Code website: [[https://code.visualstudio.com]].
+In the browser, go to Visual Studio Code website: <https://code.visualstudio.com>.
 
 ![image](/assets/img/VisualStudioCodeWebsite.png)
 
