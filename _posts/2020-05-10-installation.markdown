@@ -9,10 +9,12 @@ img:  # Add image post (optional)
 
 {% include screenshot.html img-name="VisualStudioCodeWebsite.png" img-description="Visual Studio Code website" %}
 
-1. The page with downloads for various operating systems appears. Click on the download for Windows:
+
+2. The page with downloads for various operating systems appears. Click on the download for Windows:
 
 {% include screenshot.html img-name="Download.png" img-description="Visual Studio Code download" %}
 
-1. The installation file will be downloaded to your disk:
+
+3. The installation file will be downloaded to your disk:
 
 {% include screenshot.html img-name="Downloaded.png" img-description="Visual Studio Code downloaedd" %}
