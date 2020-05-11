@@ -11,11 +11,15 @@ In the browser, go to Visual Studio Code website: <https://code.visualstudio.com
 
 {% include screenshot.html img-name="VisualStudioCodeWebsite.png" img-description="Visual Studio Code website" %}
 
+<br />
+
 ## Downloading the Windows version
 
 The page with downloads for various operating systems appears. Click on the download for Windows:
 
 {% include screenshot.html img-name="Download.png" img-description="Visual Studio Code download" %}
+
+<br />
 
 ## File is downloaded
 
