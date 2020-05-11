@@ -11,7 +11,7 @@ In the browser, go to Visual Studio Code website: <https://code.visualstudio.com
 
 Image in newest format:
 
-{% include screenshot.html img-name="VisualStudioCodeWebsite.png" %}
+{% include screenshot.html img-name="VisualStudioCodeWebsite.png" img-description="Visual Studio Code website" %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
