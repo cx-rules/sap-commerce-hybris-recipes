@@ -9,6 +9,8 @@ In the browser, go to Visual Studio Code website: <https://code.visualstudio.com
 
 ![Visual Studio Code website]({{ site.baseurl }}/assets/img/VisualStudioCodeWebsite.png "Visual Studio Code website")
 
+<a href="/visual-studio-code-recipes/assets/img/VisualStudioCodeWebsite.png" target="_blank"><img src="/visual-studio-code-recipes/assets/img/VisualStudioCodeWebsite.png" alt="Visual Studio Code website" title="Visual Studio Code website"></a>
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
