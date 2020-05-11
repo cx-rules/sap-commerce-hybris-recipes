@@ -12,3 +12,7 @@ In the browser, go to Visual Studio Code website: <https://code.visualstudio.com
 The page with downloads for various operating systems appears. Click on the download for Windows:
 
 {% include screenshot.html img-name="Download.png" img-description="Visual Studio Code download" %}
+
+The installation file will be downloaded to your disk:
+
+{% include screenshot.html img-name="Downloaded.png" img-description="Visual Studio Code downloaedd" %}
