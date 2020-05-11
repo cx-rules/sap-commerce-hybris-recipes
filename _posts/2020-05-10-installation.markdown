@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installation!"
+title: "Installation"
 date: 2020-05-10
 description: How to install Visual Studio Code on Windows.
 img:  # Add image post (optional)
