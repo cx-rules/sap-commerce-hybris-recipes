@@ -17,7 +17,7 @@ img:  # Add image post (optional)
 
 {% include arrow.html %}
 
-## Downloading the Windows version
+## Download the Windows version
 
 {% include screenshot.html
 	div-name="Download"
