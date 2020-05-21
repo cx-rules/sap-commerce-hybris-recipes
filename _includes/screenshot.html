@@ -1,3 +1,29 @@
-<a href="{{ site.baseurl }}/assets/img/{{ include.img-name }}" target="_blank">
-  <img src="{{ site.baseurl }}/assets/img/{{ include.img-name }}" alt="{{ include.img-description }}" title="{{ include.img-description }}" style="border: 1px solid #333030">
-</a>
+<div
+	id="overlay_{{ include.div-name }}" onclick="overlay_{{ include.div-name }}_off()"
+	style="position: fixed; display: none; width: 100%; height: 100%; top: 0; left: 0; right: 0; bottom: 0; background-color: rgba(0,0,0,0.5); z-index: 2; cursor: pointer;">
+
+	<img
+		style="position: relative; display: inline-block; max-width: 80%; margin: 0; top: 50%; left: 40%; -ms-transform: translate(-50%, -50%); transform: translate(-50%, -50%); border: 1px solid #333030"
+		src="{{ site.baseurl }}/assets/img/{{ include.img-name }}"
+		alt="{{ include.img-description }}"
+		title="{{ include.img-description }}"
+	/>
+</div>
+
+<img
+	style="cursor: pointer; border: 1px solid #333030"
+	src="{{ site.baseurl }}/assets/img/{{ include.img-name }}"
+	alt="{{ include.img-description }}"
+	title="{{ include.img-description }}"
+	onclick="overlay_{{ include.div-name }}_on()"
+/>
+
+<script>
+	function overlay_{{ include.div-name }}_on() {
+		document.getElementById("overlay_{{ include.div-name }}").style.display = "inline-block";
+	}
+
+	function overlay_{{ include.div-name }}_off() {
+		document.getElementById("overlay_{{ include.div-name }}").style.display = "none";
+	}
+</script>
