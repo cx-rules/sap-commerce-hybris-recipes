@@ -129,9 +129,7 @@ img:  # Add image post (optional)
 
 ## Run `ant clean all`
 
-{% include arrow.html %}
-
-## Choose `develop` configuration template
+### Choose `develop` configuration template
 
 {% include screenshot.html
 	div-name="DevelopProduction"
@@ -195,3 +193,52 @@ img:  # Add image post (optional)
 {% include arrow.html %}
 
 ## Message `INFO: Server startup in 26438 ms` signifies successful start.
+
+{% include arrow.html %}
+
+## Navigate to `https://localhost:9002`
+
+{% include screenshot.html
+	div-name="HybrisStartBeginning"
+	img-name="HybrisStartBeginning.png"
+	img-description="Ant start - beginning"
+%}
+
+{% include arrow.html %}
+
+## Accept security warning
+### You know it is your site.
+
+{% include screenshot.html
+	div-name="PrivacyError"
+	img-name="PrivacyError.png"
+	img-description="Privacy error"
+%}
+
+{% include screenshot.html
+	div-name="PrivacyErrorAdvanced"
+	img-name="PrivacyErrorAdvanced.png"
+	img-description="Privacy error - accept"
+%}
+
+{% include arrow.html %}
+
+## Enter credentials
+### Username = `admin` (prefilled)
+### Password - you chose it earlier (properties file)
+
+{% include screenshot.html
+	div-name="HACLogin"
+	img-name="HACLogin.png"
+	img-description="HAC login"
+%}
+
+{% include arrow.html %}
+
+## See that Hybris is running
+
+{% include screenshot.html
+	div-name="HACAfterLogin"
+	img-name="HACAfterLogin.png"
+	img-description="HAC login successful"
+%}
